@@ -1,6 +1,6 @@
 # Doodle-Drawing-Interface
 
-Drawing interface used to collect [Doodle to UI Dataset] (https://github.com/soumikmohianuta/UI-Element-Sketches).
+Drawing interface used to collect [Doodle to UI Dataset](https://github.com/soumikmohianuta/UI-Element-Sketches).
 
 Run the app.py script and hit http://127.0.0.1:5000/ on the browser to use the drawing interface. 
 
